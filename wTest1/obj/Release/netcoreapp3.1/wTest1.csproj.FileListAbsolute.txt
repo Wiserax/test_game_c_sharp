@@ -1,0 +1,11 @@
+C:\Users\Wiserax\source\repos\C#\wTest1\wTest1\bin\Release\netcoreapp3.1\wTest1.exe
+C:\Users\Wiserax\source\repos\C#\wTest1\wTest1\bin\Release\netcoreapp3.1\wTest1.deps.json
+C:\Users\Wiserax\source\repos\C#\wTest1\wTest1\bin\Release\netcoreapp3.1\wTest1.runtimeconfig.json
+C:\Users\Wiserax\source\repos\C#\wTest1\wTest1\bin\Release\netcoreapp3.1\wTest1.runtimeconfig.dev.json
+C:\Users\Wiserax\source\repos\C#\wTest1\wTest1\bin\Release\netcoreapp3.1\wTest1.dll
+C:\Users\Wiserax\source\repos\C#\wTest1\wTest1\bin\Release\netcoreapp3.1\wTest1.pdb
+C:\Users\Wiserax\source\repos\C#\wTest1\wTest1\obj\Release\netcoreapp3.1\wTest1.csprojAssemblyReference.cache
+C:\Users\Wiserax\source\repos\C#\wTest1\wTest1\obj\Release\netcoreapp3.1\wTest1.AssemblyInfoInputs.cache
+C:\Users\Wiserax\source\repos\C#\wTest1\wTest1\obj\Release\netcoreapp3.1\wTest1.AssemblyInfo.cs
+C:\Users\Wiserax\source\repos\C#\wTest1\wTest1\obj\Release\netcoreapp3.1\wTest1.dll
+C:\Users\Wiserax\source\repos\C#\wTest1\wTest1\obj\Release\netcoreapp3.1\wTest1.pdb
