@@ -4,11 +4,17 @@
     <projectFile>wTest1/wTest1.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58528e97-ddc0-443d-a653-69b972a33209" name="Default Changelist" comment="" />
+    <list default="true" id="58528e97-ddc0-443d-a653-69b972a33209" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.wTest1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.wTest1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wTest1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/wTest1/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -21,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1hVcCBcmmEtsPc3GPPZRZ9wEvGv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600099570801</updated>
       <workItem from="1600099579113" duration="58000" />
-      <workItem from="1600099657502" duration="10326000" />
+      <workItem from="1600099657502" duration="11083000" />
     </task>
     <servers />
   </component>
@@ -75,22 +82,30 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1600110143475">
+    <state x="836" y="421" key="Github.ShareDialog" timestamp="1600110944930">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/1920.318.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1600110143475" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1600110143475">
+    <state x="836" y="421" key="Github.ShareDialog/1920.318.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1600110944930" />
+    <state x="761" y="248" key="Github.UntrackedFilesDialog" timestamp="1600110953775">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.center/1920.318.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1600110143475" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1600110143475">
+    <state x="761" y="248" key="Github.UntrackedFilesDialog/1920.318.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1600110953775" />
+    <state width="1877" height="130" key="GridCell.Tab.0.bottom" timestamp="1600110849031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.left/1920.318.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1600110143475" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1600110143475">
+    <state width="1877" height="130" key="GridCell.Tab.0.bottom/1920.318.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1600110849031" />
+    <state width="1877" height="130" key="GridCell.Tab.0.center" timestamp="1600110849031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.right/1920.318.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1600110143475" />
+    <state width="1877" height="130" key="GridCell.Tab.0.center/1920.318.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1600110849031" />
+    <state width="1877" height="130" key="GridCell.Tab.0.left" timestamp="1600110849031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="130" key="GridCell.Tab.0.left/1920.318.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1600110849031" />
+    <state width="1877" height="130" key="GridCell.Tab.0.right" timestamp="1600110849031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="130" key="GridCell.Tab.0.right/1920.318.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1600110849031" />
     <state x="351" y="259" key="RiderGenerateDialog" timestamp="1600105021113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -99,6 +114,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="17" y="168" key="SettingsEditor/1920.318.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1600107342579" />
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1600111471235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/1920.318.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1600111471235" />
     <state x="176" y="213" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600099716755">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
